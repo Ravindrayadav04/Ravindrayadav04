@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on  machine learning project which stores my fetch data to a database.
-- 📫 How to reach me  ( www.linkedin.com/in/ravindra-yadav-632723264)
+- 📫 How to reach me  ( www.linkedin.com/in/ravindra-yadav-632723264) / yadhuvanshiravindra2004@gmail.com  .. / 
 - 😄 Pronouns: Ravi 
 
 <!---
